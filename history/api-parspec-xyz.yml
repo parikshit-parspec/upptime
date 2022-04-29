@@ -1,7 +1,7 @@
 url: https://api.parspec.xyz/admin/
-status: up
-code: 200
-responseTime: 308
-lastUpdated: 2022-04-29T05:19:41.920Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2022-04-29T05:34:35.898Z
 startTime: Fri Apr 29 2022 05:13:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
