@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/new.parspec.xyz",
     "slug": "new-parspec-xyz",
     "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "97.86%",
+    "uptime": "97.72%",
+    "uptimeDay": "88.27%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
     "time": 208,
     "timeDay": 223,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2022-05-04": 158
+      "2022-05-04": 169
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://api.parspec.xyz/admin/",
     "icon": "https://favicons.githubusercontent.com/api.parspec.xyz",
     "slug": "api-parspec-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 363,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 318,
+    "timeDay": 338,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 11
     }
   }
 ]
