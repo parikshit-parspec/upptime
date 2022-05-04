@@ -4,18 +4,20 @@
     "url": "https://parspec.io/",
     "icon": "https://favicons.githubusercontent.com/parspec.io",
     "slug": "parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 614,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "time": 425,
+    "timeDay": 437,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "app.parspec.io",
