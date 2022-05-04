@@ -10,7 +10,7 @@ sites:
   - name: api.parspec.io
     url: https://api.parspec.io/admin/
   - name: new.parspec.xyz
-    url: http://new.parspec.xyz/
+    url: http://13.59.120.221/
   - name: api.parspec.xyz
     url: https://api.parspec.xyz/admin/
 
