@@ -40,7 +40,7 @@
     "url": "https://api.parspec.io/admin/",
     "icon": "https://favicons.githubusercontent.com/api.parspec.io",
     "slug": "api-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 398,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-10": 0
+    }
   }
 ]
