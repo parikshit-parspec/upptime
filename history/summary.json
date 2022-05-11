@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 436,
-    "timeWeek": 424,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 428,
+    "timeDay": 389,
+    "timeWeek": 372,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 341,
-    "timeWeek": 292,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 305,
+    "timeDay": 288,
+    "timeWeek": 287,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,31 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 387,
-    "timeDay": 412,
-    "timeWeek": 402,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 389,
+    "timeDay": 418,
+    "timeWeek": 404,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2022-05-10": 23
     }
+  },
+  {
+    "name": "wvproxy.parspec.io",
+    "url": "http://wvproxy.parspec.io/",
+    "icon": "https://favicons.githubusercontent.com/wvproxy.parspec.io",
+    "slug": "wvproxy-parspec-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
+    "dailyMinutesDown": {}
   }
 ]
