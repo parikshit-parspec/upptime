@@ -11,6 +11,8 @@ sites:
     url: https://api.parspec.io/admin/
   - name: wvproxy.parspec.io
     url: http://wvproxy.parspec.io/
+  - name: search.parspec.io
+    url: https://search.parspec.io/admin/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
