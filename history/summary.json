@@ -62,19 +62,19 @@
     "url": "http://wvproxy.parspec.io/",
     "icon": "https://favicons.githubusercontent.com/wvproxy.parspec.io",
     "slug": "wvproxy-parspec-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 45,
-    "timeWeek": 252,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 278,
+    "timeDay": 119,
+    "timeWeek": 245,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-05-30": 0
+      "2022-05-30": 12
     }
   },
   {
