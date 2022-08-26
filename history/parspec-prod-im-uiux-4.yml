@@ -1,7 +1,7 @@
 url: http://ec2-18-220-113-165.us-east-2.compute.amazonaws.com:8000/health
-status: down
-code: 502
-responseTime: 87
-lastUpdated: 2022-08-26T13:36:25.389Z
+status: up
+code: 200
+responseTime: 38
+lastUpdated: 2022-08-26T13:37:12.923Z
 startTime: Fri Aug 26 2022 10:35:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
