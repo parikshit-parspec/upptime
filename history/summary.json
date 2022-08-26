@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/ec2-18-188-222-89.us-east-2.compute.amazonaws.com",
     "slug": "parspec-prod-im-uiux-3",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
-    "dailyMinutesDown": {
-      "2022-08-26": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "parspec-prod-IM-UIUX-4",
