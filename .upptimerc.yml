@@ -11,6 +11,10 @@ sites:
     url: http://wvproxy.parspec.io/
   - name: search.parspec.io
     url: https://search.parspec.io/admin/
+  - name: parspec-prod-IM-UIUX-3
+    url: http://ec2-3-142-222-46.us-east-2.compute.amazonaws.com:8000/health
+  - name: parspec-prod-IM-UIUX-4
+    url: http://ec2-18-116-162-76.us-east-2.compute.amazonaws.com:8000/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
