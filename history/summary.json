@@ -96,19 +96,19 @@
     "url": "http://ec2-18-116-162-76.us-east-2.compute.amazonaws.com:8000/health",
     "icon": "https://favicons.githubusercontent.com/ec2-18-116-162-76.us-east-2.compute.amazonaws.com",
     "slug": "parspec-prod-im-uiux-4",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "97.69%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-08-26": 0
+      "2022-08-26": 4
     }
   }
 ]
