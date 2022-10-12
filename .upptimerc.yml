@@ -15,6 +15,14 @@ sites:
     url: http://ec2-18-188-222-89.us-east-2.compute.amazonaws.com/health
   - name: parspec-prod-IM-UIUX-4
     url: http://ec2-18-220-113-165.us-east-2.compute.amazonaws.com/health
+  - name: parspec-deep-learning-inference-GPU
+    url: http://3.128.197.67:8501/v1/models/bert_v3:predict
+    method: POST
+    headers:
+      - "Accept: */*"
+      - "Content-Length: 36"
+      - "Content-Type: application/x-www-form-urlencoded"
+    body: '{"instances": ["1.0", "2.0", "5.0"]}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
