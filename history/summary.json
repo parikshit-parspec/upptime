@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 186,
-    "timeWeek": 254,
-    "timeMonth": 224,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 162,
+    "timeWeek": 238,
+    "timeMonth": 221,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 425,
-    "timeDay": 150,
-    "timeWeek": 312,
-    "timeMonth": 254,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 143,
+    "timeWeek": 291,
+    "timeMonth": 251,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2022-05-10": 23
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 143,
-    "timeWeek": 319,
-    "timeMonth": 269,
-    "timeYear": 175,
+    "time": 174,
+    "timeDay": 136,
+    "timeWeek": 297,
+    "timeMonth": 265,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
+    "time": 246,
     "timeDay": 108,
-    "timeWeek": 238,
-    "timeMonth": 204,
-    "timeYear": 247,
+    "timeWeek": 223,
+    "timeMonth": 201,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
     "time": 107,
-    "timeDay": 52,
-    "timeWeek": 127,
-    "timeMonth": 87,
+    "timeDay": 54,
+    "timeWeek": 120,
+    "timeMonth": 86,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2022-10-05": 24,
@@ -106,9 +106,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 85,
-    "timeDay": 39,
-    "timeWeek": 97,
-    "timeMonth": 78,
+    "timeDay": 41,
+    "timeWeek": 91,
+    "timeMonth": 77,
     "timeYear": 85,
     "dailyMinutesDown": {
       "2022-09-22": 41
@@ -116,22 +116,22 @@
   },
   {
     "name": "parspec-deep-learning-inference-GPU",
-    "url": "http://3.128.197.67:8501/v1/models/bert_v3:predict",
-    "icon": "https://icons.duckduckgo.com/ip3/3.128.197.67.ico",
+    "url": "http://3.20.227.85:8501/v1/models/bert_v3:predict",
+    "icon": "https://icons.duckduckgo.com/ip3/3.20.227.85.ico",
     "slug": "parspec-deep-learning-inference-gpu",
-    "status": "down",
-    "uptime": "72.19%",
-    "uptimeDay": "72.19%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "72.19%",
-    "uptimeYear": "72.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "8.96%",
+    "uptimeDay": "8.96%",
+    "uptimeWeek": "8.96%",
+    "uptimeMonth": "8.96%",
+    "uptimeYear": "8.96%",
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2022-10-12": 0
+      "2022-10-12": 6
     }
   }
 ]
