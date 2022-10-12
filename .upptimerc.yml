@@ -16,7 +16,7 @@ sites:
   - name: parspec-prod-IM-UIUX-4
     url: http://ec2-18-220-113-165.us-east-2.compute.amazonaws.com/health
   - name: parspec-deep-learning-inference-GPU
-    url: http://3.128.197.67:8501/v1/models/bert_v3:predict
+    url: http://3.20.227.85:8501/v1/models/bert_v3:predict
     method: POST
     headers:
       - "Accept: */*"
