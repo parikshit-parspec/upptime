@@ -1,7 +1,7 @@
 url: http://ec2-18-188-222-89.us-east-2.compute.amazonaws.com/health
 status: up
 code: 200
-responseTime: 158
-lastUpdated: 2022-10-15T23:02:26.627Z
+responseTime: 47
+lastUpdated: 2022-10-16T23:03:01.004Z
 startTime: Fri Aug 26 2022 10:34:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
