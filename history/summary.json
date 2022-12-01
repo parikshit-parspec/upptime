@@ -81,9 +81,9 @@
     "url": "http://ec2-18-188-222-89.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-18-188-222-89.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -93,6 +93,7 @@
     "timeMonth": 91,
     "timeYear": 102,
     "dailyMinutesDown": {
+      "2022-12-01": 0,
       "2022-10-05": 24,
       "2022-09-22": 41
     }
