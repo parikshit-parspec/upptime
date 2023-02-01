@@ -5,11 +5,11 @@ sites:
   - name: app.parspec.io
     url: https://app.parspec.io/
   - name: api.parspec.io
-    url: https://api.parspec.io/admin/
+    url: https://api.parspec.io/health
   - name: wvproxy.parspec.io
     url: http://wvproxy.parspec.io/
   - name: search.parspec.io
-    url: https://search.parspec.io/admin/
+    url: https://search.parspec.io/health
   - name: parspec-prod-IM-UIUX-3
     url: http://ec2-3-136-159-131.us-east-2.compute.amazonaws.com/health
   - name: parspec-prod-IM-UIUX-4
