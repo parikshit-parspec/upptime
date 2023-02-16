@@ -25,7 +25,7 @@ sites:
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
   - name: aggregator
-    url: http://18.219.57.129/health
+    url: http://18.191.102.64/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
