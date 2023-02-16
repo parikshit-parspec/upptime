@@ -165,18 +165,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/18.191.102.64.ico",
     "slug": "aggregator",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 69,
     "timeDay": 26,
     "timeWeek": 88,
     "timeMonth": 77,
     "timeYear": 69,
-    "dailyMinutesDown": {
-      "2023-02-16": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
