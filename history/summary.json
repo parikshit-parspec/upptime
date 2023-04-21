@@ -22,10 +22,10 @@
     "url": "https://api.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -34,6 +34,7 @@
     "timeMonth": 289,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2023-04-21": 1,
       "2022-05-10": 23
     }
   },
