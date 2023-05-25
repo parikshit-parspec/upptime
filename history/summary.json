@@ -97,19 +97,19 @@
     "url": "http://ec2-18-219-180-248.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-18-219-180-248.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 43,
-    "timeWeek": 80,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 80,
+    "timeDay": 46,
+    "timeWeek": 76,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 33
     }
   },
   {
