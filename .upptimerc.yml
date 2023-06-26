@@ -4,6 +4,8 @@ repo: upptime # The name of this repository
 sites:
   - name: app.parspec.io
     url: https://app.parspec.io/
+  - name: review.parspec.io
+    url: https://review.parspec.io/
   - name: api.parspec.io
     url: https://api.parspec.io/health
   - name: wvproxy.parspec.io
