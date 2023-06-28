@@ -239,17 +239,19 @@
     "url": "http://18.191.102.64/health",
     "icon": "https://icons.duckduckgo.com/ip3/18.191.102.64.ico",
     "slug": "aggregator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 85,
-    "timeWeek": 73,
+    "timeDay": 88,
+    "timeWeek": 75,
     "timeMonth": 83,
     "timeYear": 72,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   }
 ]
