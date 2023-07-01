@@ -12,14 +12,6 @@ sites:
     url: http://wvproxy.parspec.io/
   - name: search.parspec.io
     url: https://search.parspec.io/health
-  - name: parspec-prod-IM-UIUX-1
-    url: http://ec2-18-118-184-166.us-east-2.compute.amazonaws.com/health
-  - name: parspec-prod-IM-UIUX-2
-    url: http://ec2-18-219-180-248.us-east-2.compute.amazonaws.com/health
-  - name: parspec-prod-IM-UIUX-3
-    url: http://ec2-3-136-159-131.us-east-2.compute.amazonaws.com/health
-  - name: parspec-prod-IM-UIUX-4
-    url: http://ec2-18-218-119-23.us-east-2.compute.amazonaws.com/health
   - name: parspec-hubspot-prod
     url: http://ec2-13-58-13-16.us-east-2.compute.amazonaws.com/health
   - name: parspec-deep-learning-inference-GPU
