@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 157,
-    "timeWeek": 213,
-    "timeMonth": 256,
-    "timeYear": 271,
+    "timeDay": 189,
+    "timeWeek": 214,
+    "timeMonth": 255,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 134,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 234,
+    "timeDay": 321,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.93%",
     "time": 374,
-    "timeDay": 207,
+    "timeDay": 219,
     "timeWeek": 257,
-    "timeMonth": 283,
-    "timeYear": 382,
+    "timeMonth": 282,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2023-07-01": 385
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 279,
-    "timeDay": 367,
-    "timeWeek": 355,
-    "timeMonth": 339,
-    "timeYear": 292,
+    "time": 280,
+    "timeDay": 446,
+    "timeWeek": 374,
+    "timeMonth": 345,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2022-12-01": 135,
       "2022-11-30": 30
@@ -88,101 +88,12 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
     "time": 246,
-    "timeDay": 257,
-    "timeWeek": 228,
+    "timeDay": 247,
+    "timeWeek": 227,
     "timeMonth": 231,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2023-07-01": 380
-    }
-  },
-  {
-    "name": "parspec-prod-IM-UIUX-1",
-    "url": "http://ec2-18-118-184-166.us-east-2.compute.amazonaws.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-18-118-184-166.us-east-2.compute.amazonaws.com.ico",
-    "slug": "parspec-prod-im-uiux-1",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "73.25%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.41%",
-    "time": 190,
-    "timeDay": 44,
-    "timeWeek": 91,
-    "timeMonth": 246,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2023-07-01": 385
-    }
-  },
-  {
-    "name": "parspec-prod-IM-UIUX-2",
-    "url": "http://ec2-18-219-180-248.us-east-2.compute.amazonaws.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-18-219-180-248.us-east-2.compute.amazonaws.com.ico",
-    "slug": "parspec-prod-im-uiux-2",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "73.25%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.36%",
-    "time": 330,
-    "timeDay": 70,
-    "timeWeek": 193,
-    "timeMonth": 133,
-    "timeYear": 330,
-    "dailyMinutesDown": {
-      "2023-07-01": 385,
-      "2023-05-25": 33
-    }
-  },
-  {
-    "name": "parspec-prod-IM-UIUX-3",
-    "url": "http://ec2-3-136-159-131.us-east-2.compute.amazonaws.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-3-136-159-131.us-east-2.compute.amazonaws.com.ico",
-    "slug": "parspec-prod-im-uiux-3",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "73.26%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.87%",
-    "time": 107,
-    "timeDay": 66,
-    "timeWeek": 92,
-    "timeMonth": 130,
-    "timeYear": 107,
-    "dailyMinutesDown": {
-      "2023-07-01": 385,
-      "2023-05-25": 51,
-      "2023-02-07": 89,
-      "2022-10-05": 24,
-      "2022-09-22": 41
-    }
-  },
-  {
-    "name": "parspec-prod-IM-UIUX-4",
-    "url": "http://ec2-18-218-119-23.us-east-2.compute.amazonaws.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-18-218-119-23.us-east-2.compute.amazonaws.com.ico",
-    "slug": "parspec-prod-im-uiux-4",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "73.26%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.87%",
-    "time": 243,
-    "timeDay": 42,
-    "timeWeek": 187,
-    "timeMonth": 122,
-    "timeYear": 243,
-    "dailyMinutesDown": {
-      "2023-07-01": 385,
-      "2023-02-07": 89,
-      "2022-12-01": 30,
-      "2022-11-30": 13,
-      "2022-09-22": 41
     }
   },
   {
@@ -191,18 +102,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec2-13-58-13-16.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-hubspot-prod",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "79.85%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.46%",
-    "time": 109,
-    "timeDay": 87,
+    "uptime": "99.44%",
+    "uptimeDay": "79.34%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.44%",
+    "time": 108,
+    "timeDay": 89,
     "timeWeek": 96,
-    "timeMonth": 110,
-    "timeYear": 109,
+    "timeMonth": 109,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-01": 290
+      "2023-07-01": 298
     }
   },
   {
@@ -217,7 +128,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 127,
-    "timeDay": 78,
+    "timeDay": 99,
     "timeWeek": 117,
     "timeMonth": 124,
     "timeYear": 127,
@@ -237,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 196,
-    "timeDay": 125,
-    "timeWeek": 200,
-    "timeMonth": 218,
+    "timeDay": 131,
+    "timeWeek": 193,
+    "timeMonth": 216,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2023-01-17": 60
@@ -251,18 +162,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/18.191.102.64.ico",
     "slug": "aggregator",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "73.26%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "72.75%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.87%",
     "time": 71,
-    "timeDay": 31,
+    "timeDay": 45,
     "timeWeek": 72,
     "timeMonth": 79,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-07-01": 385
+      "2023-07-01": 392
     }
   }
 ]
