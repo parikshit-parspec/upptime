@@ -24,8 +24,6 @@ sites:
     body: '{"instances": ["1.0", "2.0", "5.0"]}'
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
-  - name: aggregator
-    url: http://18.191.102.64/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
