@@ -40,18 +40,20 @@
     "url": "https://api.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 279,
-    "timeWeek": 278,
-    "timeMonth": 290,
-    "timeYear": 383,
-    "dailyMinutesDown": {}
+    "timeDay": 246,
+    "timeWeek": 271,
+    "timeMonth": 288,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   },
   {
     "name": "wvproxy.parspec.io",
@@ -97,9 +99,9 @@
     "url": "http://ec2-18-118-184-166.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-18-118-184-166.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,16 +110,18 @@
     "timeWeek": 91,
     "timeMonth": 246,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   },
   {
     "name": "parspec-prod-IM-UIUX-2",
     "url": "http://ec2-18-219-180-248.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-18-219-180-248.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -127,6 +131,7 @@
     "timeMonth": 133,
     "timeYear": 330,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-05-25": 33
     }
   },
@@ -135,9 +140,9 @@
     "url": "http://ec2-3-136-159-131.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-3-136-159-131.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -147,6 +152,7 @@
     "timeMonth": 130,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-05-25": 51,
       "2023-02-07": 89,
       "2022-10-05": 24,
@@ -158,9 +164,9 @@
     "url": "http://ec2-18-218-119-23.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-18-218-119-23.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-prod-im-uiux-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -170,6 +176,7 @@
     "timeMonth": 122,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-02-07": 89,
       "2022-12-01": 30,
       "2022-11-30": 13,
@@ -239,17 +246,19 @@
     "url": "http://18.191.102.64/health",
     "icon": "https://icons.duckduckgo.com/ip3/18.191.102.64.ico",
     "slug": "aggregator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 34,
-    "timeWeek": 77,
-    "timeMonth": 80,
-    "timeYear": 72,
-    "dailyMinutesDown": {}
+    "time": 71,
+    "timeDay": 31,
+    "timeWeek": 72,
+    "timeMonth": 79,
+    "timeYear": 71,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   }
 ]
