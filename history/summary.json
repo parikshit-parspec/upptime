@@ -101,9 +101,9 @@
     "url": "http://ec2-13-58-13-16.us-east-2.compute.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-13-58-13-16.us-east-2.compute.amazonaws.com.ico",
     "slug": "parspec-hubspot-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.62%",
@@ -113,6 +113,7 @@
     "timeMonth": 81,
     "timeYear": 98,
     "dailyMinutesDown": {
+      "2023-07-20": 0,
       "2023-07-01": 305
     }
   },
