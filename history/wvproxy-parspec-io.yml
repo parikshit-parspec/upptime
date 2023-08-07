@@ -1,7 +1,7 @@
 url: http://wvproxy.parspec.io/
-status: down
-code: 502
-responseTime: 295
-lastUpdated: 2023-08-07T21:45:15.359Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2023-08-07T21:55:12.241Z
 startTime: Wed May 11 2022 05:53:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
