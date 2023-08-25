@@ -26,8 +26,6 @@ sites:
     url: http://inference-225433411.us-east-2.elb.amazonaws.com/health
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
-  - name: slack test
-    url: http://dankdfn.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
