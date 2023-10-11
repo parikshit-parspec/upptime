@@ -145,19 +145,19 @@
     "url": "http://inference-225433411.us-east-2.elb.amazonaws.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/inference-225433411.us-east-2.elb.amazonaws.com.ico",
     "slug": "pdf-attr-extraction",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 120,
-    "timeWeek": 103,
-    "timeMonth": 95,
-    "timeYear": 103,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.91%",
+    "time": 102,
+    "timeDay": 100,
+    "timeWeek": 98,
+    "timeMonth": 94,
+    "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-10-11": 0
+      "2023-10-11": 70
     }
   },
   {
