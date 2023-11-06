@@ -126,9 +126,9 @@
     "url": "http://18.220.81.130:8501/v1/models/bert_v3:predict",
     "icon": "https://icons.duckduckgo.com/ip3/18.220.81.130.ico",
     "slug": "parspec-deep-learning-inference-gpu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -138,6 +138,7 @@
     "timeMonth": 116,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2023-11-06": 0,
       "2023-04-04": 315
     }
   },
