@@ -4,9 +4,9 @@
     "url": "https://app.parspec.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.parspec.io.ico",
     "slug": "app-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 290,
     "timeMonth": 285,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   },
   {
     "name": "review.parspec.io",
@@ -42,9 +44,9 @@
     "slug": "api-parspec-io",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.69%",
     "time": 349,
     "timeDay": 201,
@@ -52,7 +54,7 @@
     "timeMonth": 316,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-11-23": 0,
+      "2023-11-23": 15,
       "2023-10-20": 30,
       "2023-08-12": 1195,
       "2023-07-01": 385
@@ -87,9 +89,9 @@
     "slug": "search-parspec-io",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.70%",
     "time": 236,
     "timeDay": 382,
@@ -97,7 +99,7 @@
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-11-23": 0,
+      "2023-11-23": 15,
       "2023-08-12": 1200,
       "2023-07-01": 380
     }
