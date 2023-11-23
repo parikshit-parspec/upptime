@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.parspec.io.ico",
     "slug": "app-parspec-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 273,
     "timeDay": 422,
     "timeWeek": 290,
     "timeMonth": 285,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 60
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://review.parspec.io/",
     "icon": "https://icons.duckduckgo.com/ip3/review.parspec.io.ico",
     "slug": "review-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 301,
     "timeMonth": 294,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   },
   {
     "name": "api.parspec.io",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.79%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.68%",
     "time": 349,
     "timeDay": 201,
-    "timeWeek": 278,
+    "timeWeek": 286,
     "timeMonth": 316,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-11-23": 15,
+      "2023-11-23": 75,
       "2023-10-20": 30,
       "2023-08-12": 1195,
       "2023-07-01": 385
@@ -88,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.parspec.io.ico",
     "slug": "search-parspec-io",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.79%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.69%",
     "time": 236,
     "timeDay": 382,
     "timeWeek": 291,
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-11-23": 15,
+      "2023-11-23": 75,
       "2023-08-12": 1200,
       "2023-07-01": 380
     }
