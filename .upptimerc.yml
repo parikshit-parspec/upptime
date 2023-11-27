@@ -13,7 +13,7 @@ sites:
   - name: search.parspec.io
     url: https://search.parspec.io/health
   - name: parspec-hubspot-prod
-    url: http://ec2-13-58-13-16.us-east-2.compute.amazonaws.com/health
+    url: http://ec2-18-220-14-168.us-east-2.compute.amazonaws.com/health
   - name: parspec-deep-learning-inference-GPU
     url: http://18.222.131.225:8501/v1/models/bert_v3:predict
     method: POST
