@@ -26,6 +26,8 @@ sites:
     url: http://inference-prod-1780511541.us-east-2.elb.amazonaws.com/health
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
+  - name: FE events
+    url: https://fe-event-service.parspec.io/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
