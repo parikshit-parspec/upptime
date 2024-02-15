@@ -28,6 +28,8 @@ sites:
     url: https://ej2.parspec.io/health
   - name: FE events
     url: https://fe-event-service.parspec.io/healthz
+  - name: Slack notif testing
+    url: http://parspect.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
