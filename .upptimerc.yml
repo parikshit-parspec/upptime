@@ -42,6 +42,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   faviconSvg: https://app.parspec.io/assets/images/sidenav/logo.svg
+  theme: light
 
 workflowSchedule:
   graphs: "0 0 * * *"
