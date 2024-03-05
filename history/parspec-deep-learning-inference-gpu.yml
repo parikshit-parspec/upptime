@@ -1,7 +1,7 @@
 url: http://18.222.131.225:8501/v1/models/bert_v3:predict
 status: up
 code: 200
-responseTime: 111
-lastUpdated: 2024-03-04T23:00:32.654Z
+responseTime: 104
+lastUpdated: 2024-03-05T10:17:11.361Z
 startTime: 2022-10-12T10:44:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
