@@ -23,7 +23,7 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded"
     body: '{"instances": ["1.0", "2.0", "5.0"]}'
   - name: pdf-attr-extraction
-    url: http://inference-prod-1780511541.us-east-2.elb.amazonaws.com/health
+    url: https://inference.parspec.io/health
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
   - name: parspec-hubspot-prod
