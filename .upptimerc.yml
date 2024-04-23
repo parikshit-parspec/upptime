@@ -14,14 +14,22 @@ sites:
     url: https://search.parspec.io/health
   - name: sonic
     url: https://api.parspec.io/marco
-  - name: parspec-deep-learning-inference-GPU
-    url: http://18.222.131.225:8501/v1/models/bert_v3:predict
+  - name: row-detection
+    url: http://row-detect.parspec.io/v1/models/row_detection:predict
     method: POST
     headers:
       - "Accept: */*"
-      - "Content-Length: 36"
+      - "Content-Length: 23"
       - "Content-Type: application/x-www-form-urlencoded"
-    body: '{"instances": ["1.0", "2.0", "5.0"]}'
+    body: '{"instances": ["type"]}'
+  - name: col-detection
+    url: http:/col-detect.parspec.io/v1/models/col_detection:predict
+    method: POST
+    headers:
+      - "Accept: */*"
+      - "Content-Length: 23"
+      - "Content-Type: application/x-www-form-urlencoded"
+    body: '{"instances": ["type"]}'
   - name: pdf-attr-extraction
     url: https://inference.parspec.io/health
   - name: ej2.parspec.io
