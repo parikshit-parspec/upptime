@@ -143,7 +143,7 @@
     "status": "down",
     "uptime": "98.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.46%",
+    "uptimeWeek": "3.42%",
     "uptimeMonth": "77.78%",
     "uptimeYear": "98.15%",
     "time": 122,
@@ -152,7 +152,7 @@
     "timeMonth": 128,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-04-23": 377,
+      "2024-04-23": 381,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -237,19 +237,19 @@
     "url": "https://fe-event-service.parspec.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/fe-event-service.parspec.io.ico",
     "slug": "fe-events",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 242,
-    "timeWeek": 156,
-    "timeMonth": 200,
+    "timeDay": 179,
+    "timeWeek": 151,
+    "timeMonth": 198,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 4
     }
   }
 ]
