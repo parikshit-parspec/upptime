@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/18.222.131.225.ico",
     "slug": "parspec-deep-learning-inference-gpu",
     "status": "down",
-    "uptime": "98.80%",
+    "uptime": "98.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.12%",
-    "uptimeMonth": "78.63%",
-    "uptimeYear": "98.22%",
+    "uptimeWeek": "3.46%",
+    "uptimeMonth": "77.78%",
+    "uptimeYear": "98.15%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 183,
     "timeMonth": 128,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-04-23": 8,
+      "2024-04-23": 377,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -237,9 +237,9 @@
     "url": "https://fe-event-service.parspec.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/fe-event-service.parspec.io.ico",
     "slug": "fe-events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,6 +248,8 @@
     "timeWeek": 156,
     "timeMonth": 200,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
