@@ -15,7 +15,7 @@ sites:
   - name: sonic
     url: https://api.parspec.io/marco
   - name: row-detection
-    url: http://row-detect.parspec.io/v1/models/row_detection:predict
+    url: http://row-detect.parspec.io/v1/models/header_detection:predict
     method: POST
     headers:
       - "Accept: */*"
