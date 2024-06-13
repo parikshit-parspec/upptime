@@ -14,6 +14,8 @@ sites:
     url: https://search.parspec.io/health
   - name: sonic
     url: https://api.parspec.io/marco
+  - name: arc
+    url: https://arc.parspec.io/marco
   - name: row-detection
     url: http://row-detect.parspec.io/v1/models/header_detection:predict
     method: POST
