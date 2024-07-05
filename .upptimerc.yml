@@ -33,7 +33,7 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded"
     body: '{"instances": ["type"]}'
   - name: pdf-attr-extraction
-    url: https://inference.parspec.io/health
+    url: https://ai-prod.parspec-cp.io/health
   - name: ej2.parspec.io
     url: https://ej2.parspec.io/health
   - name: parspec-hubspot-prod
