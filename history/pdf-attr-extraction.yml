@@ -1,7 +1,7 @@
-url: https://inference.parspec.io/health
-status: down
-code: 503
-responseTime: 68
-lastUpdated: 2024-07-05T04:50:12.760Z
+url: https://ai-prod.parspec-cp.io/health
+status: up
+code: 200
+responseTime: 364
+lastUpdated: 2024-07-05T05:11:37.925Z
 startTime: 2023-08-18T08:26:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
