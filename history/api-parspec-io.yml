@@ -1,7 +1,7 @@
 url: https://api.parspec.io/health
-status: down
-code: 503
-responseTime: 108
-lastUpdated: 2024-08-27T05:40:11.699Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2024-08-27T07:00:12.957Z
 startTime: 2022-04-29T05:13:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
