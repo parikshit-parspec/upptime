@@ -9,7 +9,7 @@ sites:
   - name: api.parspec.io
     url: https://api.parspec.io/health
   - name: wvproxy.parspec.io
-    url: http://wvproxy.parspec.io/
+    url: http://wvproxy.parspec.io/marco
   - name: search.parspec.io
     url: https://search.parspec.io/health
   - name: sonic
