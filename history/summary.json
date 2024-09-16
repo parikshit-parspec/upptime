@@ -298,17 +298,19 @@
     "url": "https://proxy.perryizgr8.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.perryizgr8.com.ico",
     "slug": "office-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 852,
-    "timeWeek": 779,
-    "timeMonth": 873,
-    "timeYear": 873,
-    "dailyMinutesDown": {}
+    "time": 881,
+    "timeDay": 968,
+    "timeWeek": 809,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   }
 ]
