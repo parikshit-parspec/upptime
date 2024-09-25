@@ -1,7 +1,7 @@
 url: http:/col-detect.parspec.io/v1/models/col_detection:predict
 status: up
 code: 200
-responseTime: 282
-lastUpdated: 2024-09-24T23:00:24.380Z
+responseTime: 390
+lastUpdated: 2024-09-25T23:00:26.019Z
 startTime: 2024-04-23T11:06:45.320Z
 generator: Upptime <https://github.com/upptime/upptime>
