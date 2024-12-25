@@ -1,7 +1,7 @@
 url: http://row-detect.parspec.io/v1/models/header_detection:predict
 status: up
 code: 200
-responseTime: 449
-lastUpdated: 2024-12-24T23:00:32.350Z
+responseTime: 343
+lastUpdated: 2024-12-25T23:00:28.126Z
 startTime: 2024-04-23T11:06:44.614Z
 generator: Upptime <https://github.com/upptime/upptime>
