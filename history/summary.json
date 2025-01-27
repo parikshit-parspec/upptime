@@ -325,19 +325,19 @@
     "url": "http://34.69.72.72/health_ai",
     "icon": "https://icons.duckduckgo.com/ip3/34.69.72.72.ico",
     "slug": "ai-dev-gcp-mn-to-att-electrical",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "status": "up",
+    "uptime": "11.17%",
+    "uptimeDay": "11.17%",
+    "uptimeWeek": "11.17%",
+    "uptimeMonth": "11.17%",
+    "uptimeYear": "11.17%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 3
     }
   }
 ]
