@@ -1,7 +1,7 @@
 url: http://34.69.72.72/health_ai
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T03:50:53.827Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2025-01-29T03:55:23.164Z
 startTime: 2025-01-27T12:17:33.207Z
 generator: Upptime <https://github.com/upptime/upptime>
