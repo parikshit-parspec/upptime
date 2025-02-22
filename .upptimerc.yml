@@ -44,6 +44,8 @@ sites:
     url: https://proxy.perryizgr8.com/health
   - name: 🤖 AI dev GCP mn-to-att:electrical
     url: http://34.69.72.72/health_ai
+  - name: data ingestion service
+    url: https://spark.parspec.io/marco
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
