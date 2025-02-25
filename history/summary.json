@@ -343,17 +343,19 @@
     "url": "https://platform-api.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform-api.parspec.io.ico",
     "slug": "data-ingestion-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 123,
     "timeDay": 123,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   }
 ]
