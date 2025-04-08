@@ -46,6 +46,8 @@ sites:
     url: http://34.69.72.72/health_ai
   - name: Data ingestion service
     url: https://platform.parspec.io/ingestion-service/api/v1/marco
+  - name: Inventory Service
+    url: https://inventory.parspec.io/inventory-service/marco
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
