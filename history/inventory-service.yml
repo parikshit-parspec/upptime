@@ -1,7 +1,7 @@
 url: https://inventory.parspec.io/inventory-service/marco
-status: down
-code: 503
-responseTime: 179
-lastUpdated: 2025-04-16T11:35:19.412Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2025-04-16T11:40:20.292Z
 startTime: 2025-04-08T15:47:03.082Z
 generator: Upptime <https://github.com/upptime/upptime>
