@@ -1,7 +1,7 @@
 url: https://platform.parspec.io/ingestion-service/api/v1/marco
 status: down
-code: 504
-responseTime: 10154
-lastUpdated: 2025-04-23T09:25:46.164Z
+code: 404
+responseTime: 271
+lastUpdated: 2025-04-23T23:00:34.477Z
 startTime: 2025-02-24T11:41:10.406Z
 generator: Upptime <https://github.com/upptime/upptime>
