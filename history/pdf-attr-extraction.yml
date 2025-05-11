@@ -1,7 +1,7 @@
 url: https://ai-prod.parspec-cp.io/health
-status: down
-code: 502
-responseTime: 9266
-lastUpdated: 2025-05-11T20:00:40.323Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2025-05-11T20:20:13.226Z
 startTime: 2023-08-18T08:26:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
