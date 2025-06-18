@@ -140,19 +140,19 @@
     "url": "https://arc.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/arc.parspec.io.ico",
     "slug": "arc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 77,
-    "timeWeek": 168,
-    "timeMonth": 214,
+    "timeDay": 144,
+    "timeWeek": 180,
+    "timeMonth": 216,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-06-18": 0
+      "2025-06-18": 10
     }
   },
   {
@@ -352,7 +352,7 @@
     "timeMonth": 178,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-06-18": 1096,
+      "2025-06-18": 1106,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
