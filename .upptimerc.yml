@@ -50,6 +50,8 @@ sites:
     url: https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector
     headers:
       - "api-token: $RECIPE_TOKEN"
+  - name: Inventory Service
+    url: https://inventory.parspec.io/inventory-service/marco
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
