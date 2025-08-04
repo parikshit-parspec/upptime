@@ -1,7 +1,7 @@
 url: http://row-detect.parspec.io/v1/models/header_detection:predict
 status: down
 code: 503
-responseTime: 60
-lastUpdated: 2025-08-04T09:55:25.006Z
+responseTime: 154
+lastUpdated: 2025-08-04T23:00:20.771Z
 startTime: 2024-04-23T11:06:44.614Z
 generator: Upptime <https://github.com/upptime/upptime>
