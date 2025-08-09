@@ -1,7 +1,7 @@
 url: http:/col-detect.parspec.io/v1/models/col_detection:predict
 status: down
 code: 503
-responseTime: 210
-lastUpdated: 2025-08-08T23:00:20.230Z
+responseTime: 131
+lastUpdated: 2025-08-09T23:00:17.909Z
 startTime: 2024-04-23T11:06:45.320Z
 generator: Upptime <https://github.com/upptime/upptime>
