@@ -16,22 +16,6 @@ sites:
     url: https://api.parspec.io/marco
   - name: arc
     url: https://arc.parspec.io/marco
-  - name: row-detection
-    url: http://row-detect.parspec.io/v1/models/header_detection:predict
-    method: POST
-    headers:
-      - "Accept: */*"
-      - "Content-Length: 23"
-      - "Content-Type: application/x-www-form-urlencoded"
-    body: '{"instances": ["type"]}'
-  - name: col-detection
-    url: http:/col-detect.parspec.io/v1/models/col_detection:predict
-    method: POST
-    headers:
-      - "Accept: */*"
-      - "Content-Length: 23"
-      - "Content-Type: application/x-www-form-urlencoded"
-    body: '{"instances": ["type"]}'
   - name: pdf-attr-extraction
     url: https://ai-prod.parspec-cp.io/health
   - name: ej2.parspec.io
