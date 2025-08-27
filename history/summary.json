@@ -40,11 +40,11 @@
     "url": "https://api.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.85%",
     "time": 372,
     "timeDay": 219,
@@ -52,6 +52,7 @@
     "timeMonth": 245,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2025-08-27": 2,
       "2025-08-06": 50,
       "2025-07-10": 40,
       "2025-07-03": 25,
@@ -79,10 +80,10 @@
     "url": "http://wvproxy.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/wvproxy.parspec.io.ico",
     "slug": "wvproxy-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
@@ -90,7 +91,9 @@
     "timeWeek": 469,
     "timeMonth": 426,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 1
+    }
   },
   {
     "name": "search.parspec.io",
@@ -171,18 +174,19 @@
     "url": "https://hubspot.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/hubspot.parspec.io.ico",
     "slug": "parspec-hubspot-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 219,
+    "time": 220,
     "timeDay": 325,
     "timeWeek": 231,
     "timeMonth": 211,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2025-08-27": 1,
       "2025-07-17": 70
     }
   },
