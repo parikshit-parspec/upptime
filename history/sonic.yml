@@ -1,7 +1,7 @@
 url: https://api.parspec.io/marco
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-11T07:17:13.226Z
+status: up
+code: 200
+responseTime: 24
+lastUpdated: 2025-09-11T07:20:28.387Z
 startTime: 2024-02-23T06:54:06.608Z
 generator: Upptime <https://github.com/upptime/upptime>
