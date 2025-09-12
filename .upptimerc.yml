@@ -44,7 +44,9 @@ sites:
     url: https://proxy.perryizgr8.com/health
   - name: 🤖 AI dev GCP mn-to-att:electrical
     url: http://34.69.72.72/health_ai
-  - name: Data ingestion service
+  - name: Platform API service
+    url: https://platform.parspec.io/platform-api/api/v1/marco
+  - name: Ingestion service
     url: https://platform.parspec.io/ingestion-service/api/v1/marco
   - name: 🔌 parspec connector
     url: https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector
