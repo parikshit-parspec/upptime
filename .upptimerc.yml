@@ -28,10 +28,15 @@ sites:
       - "api-token: $RECIPE_TOKEN"
   - name: Inventory Service
     url: https://inventory.parspec.io/inventory-service/marco
-  - name: Platform API service
+  - name: Platform API service(Production)
     url: https://platform.parspec.io/platform-api/api/v1/marco
-  - name: Ingestion service
+  - name: Ingestion service(Production)
     url: https://platform.parspec.io/ingestion-service/api/v1/marco
+  - name: Platform API service(Staging)
+    url: https://platform.parspec.xyz/platform-api/api/v1/marco
+  - name: Ingestion service(Staging)
+    url: https://platform.parspec.xyz/ingestion-service/api/v1/marco
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
