@@ -285,19 +285,19 @@
     "url": "https://platform.parspec.xyz/platform-api/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.xyz.ico",
     "slug": "platform-api-service-staging",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 944,
-    "timeDay": 2659,
-    "timeWeek": 944,
-    "timeMonth": 944,
-    "timeYear": 944,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 894,
+    "timeDay": 2175,
+    "timeWeek": 894,
+    "timeMonth": 894,
+    "timeYear": 894,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 5
     }
   },
   {
