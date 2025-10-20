@@ -210,18 +210,20 @@
     "url": "https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector",
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "parspec-connector",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 562,
-    "timeWeek": 727,
-    "timeMonth": 986,
-    "timeYear": 843,
-    "dailyMinutesDown": {}
+    "time": 856,
+    "timeDay": 1460,
+    "timeWeek": 931,
+    "timeMonth": 1029,
+    "timeYear": 856,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "Inventory Service",
