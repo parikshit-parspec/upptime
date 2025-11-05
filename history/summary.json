@@ -4,19 +4,19 @@
     "url": "https://app.parspec.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.parspec.io.ico",
     "slug": "app-parspec-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 117,
-    "timeWeek": 156,
-    "timeMonth": 165,
+    "timeDay": 153,
+    "timeWeek": 160,
+    "timeMonth": 166,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-11-05": 1
+      "2025-11-05": 5
     }
   },
   {
