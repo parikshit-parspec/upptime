@@ -118,18 +118,20 @@
     "url": "https://api.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "sonic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
     "timeDay": 12,
-    "timeWeek": 41,
-    "timeMonth": 37,
+    "timeWeek": 37,
+    "timeMonth": 36,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-17": 0
+    }
   },
   {
     "name": "arc",
