@@ -269,18 +269,20 @@
     "url": "https://platform.parspec.io/ingestion-service/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.io.ico",
     "slug": "ingestion-service-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 24,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 36,
-    "dailyMinutesDown": {}
+    "time": 187,
+    "timeDay": 5023,
+    "timeWeek": 1285,
+    "timeMonth": 349,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "Platform API service(Staging)",
