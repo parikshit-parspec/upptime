@@ -153,19 +153,19 @@
     "url": "https://ej2.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/ej2.parspec.io.ico",
     "slug": "ej2-parspec-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 316,
-    "timeWeek": 218,
-    "timeMonth": 219,
-    "timeYear": 215,
+    "timeDay": 347,
+    "timeWeek": 240,
+    "timeMonth": 224,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-11-22": 0
+      "2025-11-22": 5
     }
   },
   {
