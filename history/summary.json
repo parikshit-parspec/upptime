@@ -209,11 +209,11 @@
     "url": "https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector",
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "parspec-connector",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 957,
     "timeDay": 7150,
@@ -221,7 +221,7 @@
     "timeMonth": 1347,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-12-03": 4,
+      "2025-12-03": 0,
       "2025-10-20": 20
     }
   },
