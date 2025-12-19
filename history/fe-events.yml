@@ -1,7 +1,7 @@
 url: https://fe-event-service.parspec.io/healthz
 status: up
 code: 200
-responseTime: 391
-lastUpdated: 2025-12-18T23:00:28.959Z
+responseTime: 366
+lastUpdated: 2025-12-19T23:00:23.965Z
 startTime: 2024-01-03T10:02:05.785Z
 generator: Upptime <https://github.com/upptime/upptime>
