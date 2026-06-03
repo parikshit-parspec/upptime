@@ -292,18 +292,16 @@
     "slug": "platform-api-service-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 229,
     "timeWeek": 146,
     "timeMonth": 156,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2026-06-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ingestion service(Staging)",
@@ -312,17 +310,15 @@
     "slug": "ingestion-service-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 74,
     "timeWeek": 94,
     "timeMonth": 124,
     "timeYear": 44,
-    "dailyMinutesDown": {
-      "2026-06-03": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
