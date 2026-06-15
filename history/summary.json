@@ -40,12 +40,12 @@
     "url": "https://api.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.65%",
     "time": 295,
     "timeDay": 152,
     "timeWeek": 171,
@@ -72,7 +72,7 @@
       "2026-06-07": 314,
       "2026-06-09": 68,
       "2026-06-10": 181,
-      "2026-06-15": 45
+      "2026-06-15": 89
     }
   },
   {
@@ -80,12 +80,12 @@
     "url": "http://wvproxy.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/wvproxy.parspec.io.ico",
     "slug": "wvproxy-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.83%",
     "time": 376,
     "timeDay": 269,
     "timeWeek": 327,
@@ -98,7 +98,7 @@
       "2026-06-07": 276,
       "2026-06-09": 61,
       "2026-06-10": 161,
-      "2026-06-15": 40
+      "2026-06-15": 79
     }
   },
   {
@@ -106,12 +106,12 @@
     "url": "https://api.parspec.io/marco",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "sonic",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "99.85%",
     "time": 44,
     "timeDay": 161,
     "timeWeek": 158,
@@ -125,7 +125,7 @@
       "2026-06-07": 227,
       "2026-06-09": 53,
       "2026-06-10": 141,
-      "2026-06-15": 35
+      "2026-06-15": 70
     }
   },
   {
@@ -151,11 +151,11 @@
     "url": "https://ej2.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/ej2.parspec.io.ico",
     "slug": "ej2-parspec-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.88%",
     "time": 230,
     "timeDay": 160,
@@ -169,7 +169,7 @@
       "2026-06-07": 191,
       "2026-06-09": 46,
       "2026-06-10": 122,
-      "2026-06-15": 30
+      "2026-06-15": 60
     }
   },
   {
@@ -203,11 +203,11 @@
     "url": "https://fe-event-service.parspec.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/fe-event-service.parspec.io.ico",
     "slug": "fe-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.90%",
     "time": 198,
     "timeDay": 132,
@@ -221,7 +221,7 @@
       "2026-06-07": 156,
       "2026-06-09": 39,
       "2026-06-10": 104,
-      "2026-06-15": 25
+      "2026-06-15": 50
     }
   },
   {
@@ -229,12 +229,12 @@
     "url": "https://apim.workato.com/parspecdev/connector-health-vv1/parspec-connector",
     "icon": "https://icons.duckduckgo.com/ip3/apim.workato.com.ico",
     "slug": "parspec-connector",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.91%",
     "time": 940,
     "timeDay": 669,
     "timeWeek": 684,
@@ -248,7 +248,7 @@
       "2026-06-07": 99,
       "2026-06-09": 32,
       "2026-06-10": 85,
-      "2026-06-15": 21
+      "2026-06-15": 41
     }
   },
   {
@@ -276,11 +276,11 @@
     "url": "https://platform.parspec.io/platform-api/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.io.ico",
     "slug": "platform-api-service-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.90%",
     "time": 168,
     "timeDay": 146,
@@ -295,7 +295,7 @@
       "2026-06-07": 77,
       "2026-06-09": 25,
       "2026-06-10": 66,
-      "2026-06-15": 16
+      "2026-06-15": 31
     }
   },
   {
@@ -303,10 +303,10 @@
     "url": "https://platform.parspec.io/ingestion-service/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.io.ico",
     "slug": "ingestion-service-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.95%",
     "time": 86,
@@ -321,7 +321,7 @@
       "2026-06-07": 56,
       "2026-06-09": 18,
       "2026-06-10": 36,
-      "2026-06-15": 11
+      "2026-06-15": 10
     }
   },
   {
@@ -329,9 +329,9 @@
     "url": "https://platform.parspec.xyz/platform-api/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.xyz.ico",
     "slug": "platform-api-service-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
+    "uptimeDay": "99.61%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -349,9 +349,9 @@
     "url": "https://platform.parspec.xyz/ingestion-service/api/v1/marco",
     "icon": "https://icons.duckduckgo.com/ip3/platform.parspec.xyz.ico",
     "slug": "ingestion-service-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
