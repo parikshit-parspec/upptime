@@ -1,7 +1,7 @@
 url: https://ej2.parspec.io/health
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2026-07-10T14:25:25.704Z
+status: down
+code: 503
+responseTime: 124
+lastUpdated: 2026-07-10T18:40:36.215Z
 startTime: 2022-11-28T05:21:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
