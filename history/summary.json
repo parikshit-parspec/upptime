@@ -40,17 +40,17 @@
     "url": "https://api.parspec.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parspec.io.ico",
     "slug": "api-parspec-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.61%",
     "time": 280,
-    "timeDay": 150,
-    "timeWeek": 186,
-    "timeMonth": 182,
-    "timeYear": 218,
+    "timeDay": 179,
+    "timeWeek": 194,
+    "timeMonth": 185,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2025-08-06": 50,
       "2025-08-28": 20,
@@ -74,7 +74,7 @@
       "2026-06-30": 95,
       "2026-07-20": 20,
       "2026-07-26": 87,
-      "2026-07-27": 45
+      "2026-07-27": 50
     }
   },
   {
